@@ -1,5 +1,6 @@
 ## Learn and Open Bussiness
-Deployed on Netlify ( https://app.netlify.com/sites/adoring-borg-e294c0/overview )
+Deployed on Netlify ( https://adoring-borg-e294c0.netlify.app/ )
+
 <img width="100%" src="https://raw.githubusercontent.com/ferdianar/vue-workspace/master/public/bussiness.JPG">
 
 ## Vue JS Workspace
